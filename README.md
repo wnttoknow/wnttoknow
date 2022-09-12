@@ -1,6 +1,6 @@
 ### Hi there 👋
+![R1-06976-015A (3)](https://user-images.githubusercontent.com/99603547/189730079-ad91fd79-1a99-4311-aac3-269358a06240.jpg)
 
-![image](https://user-images.githubusercontent.com/99603547/189728718-33bf6a83-1190-4684-9dd0-d113f76b441e.png)
 
 
 | **Проект** | **Тип исследования** | **Статус** |
