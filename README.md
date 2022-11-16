@@ -25,7 +25,10 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [01. Consumption forecasting](https://nbviewer.org/github/wnttoknow/pet_projects/blob/main/consumption_forecasting/consumption_forecast_evraz.ipynb) |Определение возможности применения методов ML для прогнозирования энергопотребления промышленных предприятий для участия в [новой услуге управления спросом на розничном рынке электроэнергии](https://demand-response.ru/). Исследование на примере данных одного из объектов ЕВРАЗ. Статус - в разработке| *Timeseries, LightGBM, RandomForest, LinearRegression, Plotly* |
 
-<![R1-06976-015A (3)](https://user-images.githubusercontent.com/99603547/189730079-ad91fd79-1a99-4311-aac3-269358a06240.jpg)>
+
+<!--
+[R1-06976-015A (3)](https://user-images.githubusercontent.com/99603547/189730079-ad91fd79-1a99-4311-aac3-269358a06240.jpg)>
+-->
 
 <!--
 **wnttoknow/wnttoknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
