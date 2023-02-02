@@ -7,6 +7,12 @@
 danil-muratov@yandex.ru  
 tg: wnttoknow
 
+**Личные проекты и ноутбуки**
+| Название проекта | Описание | Навыки и инструменты | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [01. Consumption forecasting](https://nbviewer.org/github/wnttoknow/pet_projects/blob/main/consumption_forecasting/consumption_forecast_evraz.ipynb) |Определение возможности применения методов ML для прогнозирования энергопотребления промышленных предприятий для участия в [новой услуге управления спросом на розничном рынке электроэнергии](https://demand-response.ru/). Исследование на примере данных одного из объектов ЕВРАЗ. Статус - в разработке| *Timeseries, LightGBM, RandomForest, LinearRegression, Plotly* |
+
+
 **Проекты, сделанные мной в рамках прохождения курса "Специалист по Data Science" Яндекс Практикум.**
 
 | Название проекта | Описание | Навыки и инструменты | 
@@ -24,10 +30,7 @@ tg: wnttoknow
 
 
 
-**Личные проекты**
-| Название проекта | Описание | Навыки и инструменты | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [01. Consumption forecasting](https://nbviewer.org/github/wnttoknow/pet_projects/blob/main/consumption_forecasting/consumption_forecast_evraz.ipynb) |Определение возможности применения методов ML для прогнозирования энергопотребления промышленных предприятий для участия в [новой услуге управления спросом на розничном рынке электроэнергии](https://demand-response.ru/). Исследование на примере данных одного из объектов ЕВРАЗ. Статус - в разработке| *Timeseries, LightGBM, RandomForest, LinearRegression, Plotly* |
+
 
 
 <!--
